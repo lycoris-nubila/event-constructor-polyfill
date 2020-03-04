@@ -44,8 +44,26 @@ This polyfill enables the use of this constructor syntax in browsers that don't 
 
 Include the script:
 
+### HTML
 ```html
 <script src="main.min.js"></script>
+```
+
+Or
+
+### NPM
+```shell script
+npm i --save @lycoris-nubila/event-constructor-polyfill
+```
+
+### Javascript
+```javascript
+required('@lycoris-nubila/event-constructor-polyfill');
+```
+
+### Angular polyfill (polyfills.ts)
+```javascript
+import '@lycoris-nubila/event-constructor-polyfill';
 ```
 
 Then, use the [polyfilled constructor functions](#polyfilled-constructors) as documented:
