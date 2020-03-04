@@ -1,7 +1,7 @@
 {
   "name": "@lycoris-nubila/event-constructor-polyfill",
   "version": "1.0.3",
-  "license": "Lycoris",
+  "license": "LGPL",
   "scripts": {
     "npm-publish": "npm publish --access public"
   },
