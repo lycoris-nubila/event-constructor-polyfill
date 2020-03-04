@@ -5,5 +5,9 @@
   "scripts": {
     "npm-publish": "npm publish --access public"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lycoris-nubila/event-constructor-polyfill.git"
+  },
   "private": false
 }
